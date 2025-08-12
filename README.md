@@ -14,10 +14,6 @@ Users can input their **weight**, **height (feet)**, and **height (inches)** to 
   - 🟩 Healthy
 - 📱 **Responsive UI** — Works on different screen sizes.
 
----
-
-## 📷 Screenshots
-> _Add screenshots here once you run the app on a simulator or device._
 
 ---
 
