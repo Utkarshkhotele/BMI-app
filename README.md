@@ -56,15 +56,5 @@ BMI=
  
 Weight in kg
 ​
- 
-📄 License
-This project is licensed under the MIT License — see the LICENSE file for details.
 
-💡 Tip: You can enhance this project by adding animations, better typography, or sliders for height & weight input.
 
-yaml
-Copy code
-
----
-
-If you want, I can also make an **emoji-rich and visually styled README** like your blood group app’s style so both repos have a matching professional look. That would make them feel like part of a series.
