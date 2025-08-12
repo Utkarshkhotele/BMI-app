@@ -24,20 +24,21 @@ Users can input their **weight**, **height (feet)**, and **height (inches)** to 
 ---
 
 ## 📦 Installation & Usage
+
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/bmi_calculator.git
-   cd bmi_calculator
+   git clone https://github.com/Utkarshkhotele/BMI-app.git
+   cd BMI-app
+
+   
 Install dependencies
-
 bash
-Copy code
 flutter pub get
-Run the app
 
+Run the app
 bash
-Copy code
 flutter run
+
 🧮 BMI Formula
 BMI
 =
@@ -52,5 +53,3 @@ BMI=
  
 Weight in kg
 ​
-
-
